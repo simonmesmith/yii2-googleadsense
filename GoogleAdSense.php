@@ -3,7 +3,7 @@
 namespace simonmesmith\googleadsense;
 use Yii;
 
-class GoogleAdSense extends \yii\base\widget
+class GoogleAdSense extends \yii\base\Widget
 {
 
     /**
